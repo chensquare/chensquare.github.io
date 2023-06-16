@@ -6,8 +6,9 @@ permalink: /publication/2022-04-16-COVID_meta
 date: 2022-04-16
 venue: 'The Journal of Infectious Diseases'
 paperurl: 'https://doi.org/10.1093/infdis/jiac136)'
-citation: 'Chen, C., Haupert, S. R., Zimmermann, L., Shi, X., Fritsche, L. G., & Mukherjee, B. (2022). Global prevalence of post-coronavirus disease 2019 (COVID-19) condition or long COVID: a meta-analysis and systematic review. The Journal of infectious diseases, 226(9), 1593-1607.'
+# citation: 'Chen, C., Haupert, S. R., Zimmermann, L., Shi, X., Fritsche, L. G., & Mukherjee, B. (2022). Global prevalence of post-coronavirus disease 2019 (COVID-19) condition or long COVID: a meta-analysis and systematic review. The Journal of infectious diseases, 226(9), 1593-1607.'
 ---
 
-[Access paper here](https://doi.org/10.1093/infdis/jiac136)
+# [Access paper here](https://doi.org/10.1093/infdis/jiac136)
 
+Chen, C., Haupert, S. R., Zimmermann, L., Shi, X., Fritsche, L. G., & Mukherjee, B. (2022). Global prevalence of post-coronavirus disease 2019 (COVID-19) condition or long COVID: a meta-analysis and systematic review. The Journal of infectious diseases, 226(9), 1593-1607.
